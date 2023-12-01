@@ -1,5 +1,0 @@
-This was my first project at the ExcelR Solutions.
-A Time Series Analysis Project where we had to forecast the future price of the Gold based on the past 6 years of data.
-We tried different Time Series Analysis Models including Arima, LSTM, Linear etc.
-We finalized the FBProphet Model as it was most suitable according to the our Analysis.
-Doing the Deployment using the Streamlit on webapp which is compatible with the Python Language.
